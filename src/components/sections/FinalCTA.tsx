@@ -1,8 +1,5 @@
 
 import { Button } from '../ui/Button';
-
-import { RiMvAiLine } from 'react-icons/ri';
-
 import Users from '../../assets/UsersIcon.svg';
 import TechIcon from '../../assets/techIcon.svg';
 import StartIcon from '../../assets/startIcon.svg';
