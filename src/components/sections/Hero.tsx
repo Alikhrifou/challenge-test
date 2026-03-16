@@ -1,7 +1,7 @@
 import { Button } from '../ui/Button';
 
 import HeroImage from '../../assets/collection.svg';
-import ProductWord from '../../assets/product-word.svg';
+import ProductWord from '../../assets/Product-word.svg';
 import { BiChevronRight } from 'react-icons/bi';
 import lightIconSrc from '../../assets/light-icon.png';
 

@@ -1,6 +1,6 @@
 import { Button } from '../ui/Button';
 import { CgChevronRight } from "react-icons/cg";
-import LogoIcon from '../../assets/logo.svg';
+import LogoIcon from '../../assets/Logo.svg';
 
 export const Navbar = () => {
   return (
