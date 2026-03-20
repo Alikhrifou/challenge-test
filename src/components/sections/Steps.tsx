@@ -29,7 +29,7 @@ export const Steps = () => (
               >
                 <IconImage src={step.icon} alt="" />
                 <span
-                  className={`absolute -top-2 -right-3 w-6 h-6 rounded-full text-xs flex items-center justify-center text-white font-bold ${
+                  className={`absolute -top-2 -right-3 lg:-right-20 w-6 h-6 rounded-full text-xs flex items-center justify-center text-white font-bold ${
                     isRed ? "bg-red-500" : "bg-green-700"
                   }`}
                   aria-label={`Étape ${step.step}`}
